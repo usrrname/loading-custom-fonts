@@ -1,8 +1,12 @@
 .App {
+  display: flex;
   margin: 1em;
   text-align: left;
+  justify-content: space-evenly;
 }
-
+section {
+  margin: 0.5rem;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
