@@ -1,26 +1,30 @@
 {
   "files": {
-    "main.css": "/loading-custom-fonts/static/css/main.e1f08d66.chunk.css",
-    "main.js": "/loading-custom-fonts/static/js/main.0bb0e1cd.chunk.js",
-    "main.js.map": "/loading-custom-fonts/static/js/main.0bb0e1cd.chunk.js.map",
-    "runtime-main.js": "/loading-custom-fonts/static/js/runtime-main.d88da394.js",
-    "runtime-main.js.map": "/loading-custom-fonts/static/js/runtime-main.d88da394.js.map",
-    "static/js/2.75212030.chunk.js": "/loading-custom-fonts/static/js/2.75212030.chunk.js",
-    "static/js/2.75212030.chunk.js.map": "/loading-custom-fonts/static/js/2.75212030.chunk.js.map",
-    "static/js/3.4bf2693a.chunk.js": "/loading-custom-fonts/static/js/3.4bf2693a.chunk.js",
-    "static/js/3.4bf2693a.chunk.js.map": "/loading-custom-fonts/static/js/3.4bf2693a.chunk.js.map",
-    "index.html": "/loading-custom-fonts/index.html",
-    "static/css/main.e1f08d66.chunk.css.map": "/loading-custom-fonts/static/css/main.e1f08d66.chunk.css.map",
-    "static/js/2.75212030.chunk.js.LICENSE.txt": "/loading-custom-fonts/static/js/2.75212030.chunk.js.LICENSE.txt",
-    "static/media/ProximaNova-Regular.29a7c7f0.woff2": "/loading-custom-fonts/static/media/ProximaNova-Regular.29a7c7f0.woff2",
-    "static/media/ProximaNova-Regular.6061578c.woff": "/loading-custom-fonts/static/media/ProximaNova-Regular.6061578c.woff",
-    "static/media/ProximaNova-Regular.7bc9ce40.otf": "/loading-custom-fonts/static/media/ProximaNova-Regular.7bc9ce40.otf",
-    "static/media/ProximaNova-Regular.dec7e81e.ttf": "/loading-custom-fonts/static/media/ProximaNova-Regular.dec7e81e.ttf"
+    "0.7f67bcc0.iframe.bundle.js": "./0.7f67bcc0.iframe.bundle.js",
+    "1.117f2fdc.iframe.bundle.js": "./1.117f2fdc.iframe.bundle.js",
+    "1.117f2fdc.iframe.bundle.js.map": "./1.117f2fdc.iframe.bundle.js.map",
+    "2.af7b2c8a.iframe.bundle.js": "./2.af7b2c8a.iframe.bundle.js",
+    "3.8bb2173c.iframe.bundle.js": "./3.8bb2173c.iframe.bundle.js",
+    "main.js": "./main.a09193ee.iframe.bundle.js",
+    "runtime~main.js": "./runtime~main.81a4688f.iframe.bundle.js",
+    "vendors~main.js": "./vendors~main.7b17093c.iframe.bundle.js",
+    "vendors~main.js.map": "./vendors~main.7b17093c.iframe.bundle.js.map",
+    "7.cc58d15a.iframe.bundle.js": "./7.cc58d15a.iframe.bundle.js",
+    "8.91de97de.iframe.bundle.js": "./8.91de97de.iframe.bundle.js",
+    "8.91de97de.iframe.bundle.js.map": "./8.91de97de.iframe.bundle.js.map",
+    "9.40ec65d6.iframe.bundle.js": "./9.40ec65d6.iframe.bundle.js",
+    "1.117f2fdc.iframe.bundle.js.LICENSE.txt": "./1.117f2fdc.iframe.bundle.js.LICENSE.txt",
+    "8.91de97de.iframe.bundle.js.LICENSE.txt": "./8.91de97de.iframe.bundle.js.LICENSE.txt",
+    "iframe.html": "./iframe.html",
+    "static/media/ProximaNova-Regular.29a7c7f0.woff2": "./static/media/ProximaNova-Regular.29a7c7f0.woff2",
+    "static/media/ProximaNova-Regular.6061578c.woff": "./static/media/ProximaNova-Regular.6061578c.woff",
+    "static/media/ProximaNova-Regular.7bc9ce40.otf": "./static/media/ProximaNova-Regular.7bc9ce40.otf",
+    "static/media/ProximaNova-Regular.dec7e81e.ttf": "./static/media/ProximaNova-Regular.dec7e81e.ttf",
+    "vendors~main.7b17093c.iframe.bundle.js.LICENSE.txt": "./vendors~main.7b17093c.iframe.bundle.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d88da394.js",
-    "static/js/2.75212030.chunk.js",
-    "static/css/main.e1f08d66.chunk.css",
-    "static/js/main.0bb0e1cd.chunk.js"
+    "runtime~main.81a4688f.iframe.bundle.js",
+    "vendors~main.7b17093c.iframe.bundle.js",
+    "main.a09193ee.iframe.bundle.js"
   ]
 }
