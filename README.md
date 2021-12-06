@@ -2,7 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-The patterns of component composition were highly inspired by Radius and Varun Vacchar's opinions on using Styled Components and Styled System.
+The patterns of component composition were highly inspired by [Radius]() and Varun Vacchar's opinions on using Styled Components and Styled System.
+
+See [Demo](https://usrrname.github.io/loading-custom-fonts/)
+
+See [Deployed Storybook at `/loading-custom-fonts/storybook`](https://usrrname.github.io/loading-custom-fonts/storybook/)
 
 ## Available Scripts
 

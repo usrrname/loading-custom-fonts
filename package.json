@@ -11,6 +11,7 @@
     "@types/node": "^16.11.11",
     "@types/react": "^17.0.37",
     "@types/react-dom": "^17.0.11",
+    "babel-loader": "8.1.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
@@ -22,11 +23,11 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "react-scripts build && yarn build-storybook",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "storybook": "start-storybook -p 6006 -s public",
-    "build-storybook": "build-storybook -s public"
+    "build-storybook": "build-storybook -s public -o ./build/storybook/"
   },
   "eslintConfig": {
     "extends": [
