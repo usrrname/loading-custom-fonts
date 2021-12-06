@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+The patterns of component composition were highly inspired by Radius and Varun Vacchar's opinions on using Styled Components and Styled System.
 
 ## Available Scripts
 
