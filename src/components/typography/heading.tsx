@@ -5,7 +5,7 @@ import { fonts } from "../../tokens/fonts";
 export type HeadingProps = {
   as: "h1" | "h2" | "h3" | "h4" | "h5" | "h6";
   children: JSX.Element | JSX.Element[] | ReactNode | string;
-  fontSize?: number | string;
+  fontSize?: string;
 };
 
 const HeadingStyle = styled.div<HeadingProps>`
