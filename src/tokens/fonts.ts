@@ -22,10 +22,10 @@ export const fonts = {
 export const globalFonts = `
 @font-face {
   font-family: 'Proxima Nova';
-  src: url(${ProximaNovaRegularOtf}) format('opentype'),
-    url(${ProximaNovaRegularTtf}) format('ttf'),
-    url(${ProximaNovaRegularWoff2}) format('woff2'),
-    url(${ProximaNovaRegularWoff}) format('woff');
+  src: url(${ProximaNovaRegularWoff2}) format('woff2'),
+  url(${ProximaNovaRegularWoff}) format('woff'),
+  url(${ProximaNovaRegularOtf}) format('opentype'),
+  url(${ProximaNovaRegularTtf}) format('ttf');
   font-weight: 400;
   font-style: normal;
   font-display: optional;

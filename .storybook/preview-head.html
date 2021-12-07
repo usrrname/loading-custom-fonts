@@ -1,14 +1,14 @@
 <link
   rel="preload"
-  href="./static/media/ProximaNova-Regular.woff"
-  as="font/woff"
+  href="./static/media/ProximaNova-Regular.woff2"
+  as="font"
+  type="font/woff2"
   crossorigin
 />
 <link
   rel="preload"
-  href="./static/media/ProximaNova-Regular.woff2"
-  as="font"
-  type="font/woff2"
+  href="./static/media/ProximaNova-Regular.woff"
+  as="font/woff"
   crossorigin
 />
 <link
@@ -30,12 +30,12 @@
     font-family: "Proxima Nova";
     font-style: normal;
     font-weight: 400;
-    src: url("./static/media/ProximaNova-Regular.otf") format("opentype"),
-      /* Safari, Android, iOS */ url("./static/media/ProximaNova-Regular.ttf")
-        format("truetype"),
-      /* Modern Browsers */ url("./static/media/ProximaNova-Regular.woff2")
+    src:  /* Modern Browsers */ url("./static/media/ProximaNova-Regular.woff2")
         format("woff2"),
-      url("./static/media/ProximaNova-Regular.woff") format("woff");
+      url("./static/media/ProximaNova-Regular.woff") format("woff"),
+      url("./static/media/ProximaNova-Regular.otf") format("opentype"),
+      /* Safari, Android, iOS */ url("./static/media/ProximaNova-Regular.ttf")
+        format("truetype");
     font-display: optional;
     font-style: normal;
   }
