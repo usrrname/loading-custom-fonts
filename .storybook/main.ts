@@ -6,5 +6,6 @@ module.exports = {
     "@storybook/preset-create-react-app",
     "@storybook/addon-a11y",
   ],
+  staticDirs: [{ from: "../src/fonts/proxima-nova", to: "/static/media" }],
   framework: "@storybook/react",
 };

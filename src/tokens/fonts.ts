@@ -3,7 +3,7 @@ import {
   ProximaNovaRegularTtf,
   ProximaNovaRegularWoff,
   ProximaNovaRegularWoff2,
-} from "../assets/fonts";
+} from "../fonts";
 
 const fallbackFontStack = "Helvetica Neue, Arial, sans-serif";
 const mainFont = "Proxima Nova";
