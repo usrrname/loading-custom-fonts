@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/loading-custom-fonts/static/css/main.e1f08d66.chunk.css",
-    "main.js": "/loading-custom-fonts/static/js/main.0bb0e1cd.chunk.js",
-    "main.js.map": "/loading-custom-fonts/static/js/main.0bb0e1cd.chunk.js.map",
+    "main.js": "/loading-custom-fonts/static/js/main.b9e84f39.chunk.js",
+    "main.js.map": "/loading-custom-fonts/static/js/main.b9e84f39.chunk.js.map",
     "runtime-main.js": "/loading-custom-fonts/static/js/runtime-main.d88da394.js",
     "runtime-main.js.map": "/loading-custom-fonts/static/js/runtime-main.d88da394.js.map",
     "static/js/2.75212030.chunk.js": "/loading-custom-fonts/static/js/2.75212030.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.d88da394.js",
     "static/js/2.75212030.chunk.js",
     "static/css/main.e1f08d66.chunk.css",
-    "static/js/main.0bb0e1cd.chunk.js"
+    "static/js/main.b9e84f39.chunk.js"
   ]
 }
