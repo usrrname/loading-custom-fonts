@@ -10,7 +10,7 @@ See [Deployed Storybook at `/loading-custom-fonts/storybook`](https://usrrname.g
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-The patterns of component composition were highly inspired by [Radius 1.0](https://github.com/rangle/radius) and Varun Vacchar's (@winkerVSbecks) opinions on using [Styled Components and Styled System](https://varun.ca/styled-system/).
+The patterns of component composition were highly inspired by [Radius 1.0](https://github.com/rangle/radius) and [Varun Vacchar](https://github.com/winkerVSbecks)'s opinions on using [Styled Components and Styled System](https://varun.ca/styled-system/).
 
 ## Available Scripts
 
