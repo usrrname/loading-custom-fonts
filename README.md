@@ -6,6 +6,11 @@ See [Demo](https://usrrname.github.io/loading-custom-fonts/)
 
 See [Deployed Storybook at `/loading-custom-fonts/storybook`](https://usrrname.github.io/loading-custom-fonts/storybook/)
 
+🌩️ JS Lightning Talk 👇
+
+[![Toronto Javascript Lightning Talks December 7 2021](http://img.youtube.com/vi/qiIilX4bLgY/0.jpg)](http://www.youtube.com/watch?v=qiIilX4bLgY)
+
+
 ## Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
